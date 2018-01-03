@@ -37,7 +37,7 @@ from io import TextIOWrapper
 #                 https://github.com/Rapptz/RoboDanny/
 #
 
-description = "Red - A multifunction Discord bot by Twentysix"
+description = "Center parcs bot - A multifunction Discord bot by WilliamJPercy"
 
 
 class Bot(commands.Bot):
